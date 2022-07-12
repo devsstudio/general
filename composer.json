@@ -10,6 +10,12 @@
     }
   ],
   "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "US\\Classes\\": "classes/",
+      "US\\Helpers\\": "helpers/"
+    }
+  },
   "require": {
     "automattic/woocommerce": "^3.0",
     "aws/aws-sdk-php": "^3.183"
