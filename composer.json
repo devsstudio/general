@@ -3,6 +3,7 @@
   "description": "Varias librerías",
   "type": "library",
   "license": "MIT",
+  "version": "1.0.1",
   "authors": [
     {
       "name": "Jean Paul Perea",
