@@ -1,6 +1,15 @@
 {
   "name": "devs-studio/general",
   "description": "Varias librerías",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jean Paul Perea",
+      "email": "admin@devs.pe"
+    }
+  ],
+  "minimum-stability": "stable",
   "require": {
     "automattic/woocommerce": "^3.0",
     "aws/aws-sdk-php": "^3.183"
