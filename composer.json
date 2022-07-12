@@ -1,0 +1,8 @@
+{
+  "name": "devs-studio/general",
+  "description": "Varias librerías",
+  "require": {
+    "automattic/woocommerce": "^3.0",
+    "aws/aws-sdk-php": "^3.183"
+  }
+}
